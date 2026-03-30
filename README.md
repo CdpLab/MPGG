@@ -1,7 +1,7 @@
 #  <p align="center">Multi-Prototype Guided Gating Framework for Multimodal Emotion Recognition in Conversations</p>
 
  <p align="center">Jia Liu, Yongze Li, Peng Gao, Chenkai Li, Zhihui Zhou, Lina Wei, and Dapeng Chen*</p>
-  <p align="center">Nanjing University of Information Science & Technology</p>
+  <p align="center">Nanjing University of Information Science and Technology</p>
 
 ---
 ## <p align="center">ABSTRACT</p>
